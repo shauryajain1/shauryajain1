@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaurya Jain</h1>
 <h3 align="center">Currently pursuing B-Tech from Thapar University, Patiala. Coding Enthusiast</h3>
-<img align="right" width=400 alt="coding" src="3eSHhTo4WUYwXJUpMCxEUo">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryajain1" alt="shauryajain1" /></a> </p>
 
